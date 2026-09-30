@@ -1,0 +1,3 @@
+YOLO-FES: An Improved Elephant Intrusion Detector Based on YOLOv8n ieeexplore
+
+ The model was trained on a diverse dataset comprising trap cameras, CCTV, drones, mobile phones, television footage, and supplemented with elephant images from COCO2017.
